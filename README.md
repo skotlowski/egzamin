@@ -1,1 +1,1 @@
-# egzamin
+First name and last name: Szymon Kotłowski
